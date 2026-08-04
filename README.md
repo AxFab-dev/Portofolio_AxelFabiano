@@ -2,17 +2,7 @@
 A modern and responsive portfolio website developed with HTML5 and CSS3. 
 This project serves as a personal website to present professional information, technical skills, education, and contact details in a clean and accessible format.
 
-portfolio/ 
-  │ 
-  ├── index.html # Main webpage 
-  │ 
-  └── Assets/ 
-      ├── style.css # Website stylesheet 
-      │ 
-      └── Ressources/ 
-          ├── Axel.jpg # Profile picture 
-          ├── icon.png # Browser favicon 
-          └── CV.pdf # Downloadable résumé
+Portfolio --> Index.html + Assets --> style.css + Ressources --> Axel.jpg + Icon.png + CV.pdf + fonts
 
 Open the project
 
