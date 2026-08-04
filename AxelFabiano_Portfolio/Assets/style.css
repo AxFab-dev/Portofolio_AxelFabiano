@@ -1,0 +1,254 @@
+@font-face {
+    font-family: "Astonied Regular";
+    src: url("Ressources/AstoniedRegular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "OkineSans";
+    src: url("Ressources/OkineSans.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: #16151a;
+    color: #FFFFFF;
+    background: linear-gradient(to top left, #0D0A19, #100C1D,#181429);
+}
+
+.Profile {
+  border-radius: 25px;
+  background-color: #160e35;
+  padding: 20px;
+  width: 900px;
+  height: 225px;
+  margin:auto
+}
+
+.Name {
+    font-family: "Astonied Regular", sans-serif;
+    margin-left: 170px;
+    margin-top: -35px;
+    font-size: 1.5em;
+}
+
+
+.Study {
+    font-family: "open sans", sans-serif;
+    margin-left: 180px;
+    margin-top: -160px;
+    font-size: 1.1em;
+}
+
+.profil_photo {
+    width: 152px;
+    height: 205px;
+    margin-top: -90px;
+    border-radius: 20px;
+}
+
+.ContactButton {
+    background-color:#D9D2F4;
+    color: #000000;
+    border-color: #D9D2F4;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1.5em;
+    cursor: pointer;
+    margin-left: 200px;
+    margin-top: 25px;
+    font-family: "Aria", sans-serif;
+    font-weight: Bold;
+}
+
+.CVButton {
+    background-color: #DBD2F4;
+    color: #000000;
+    border-color: #D9D2F4;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 1.5em;
+    margin-left: 20px;
+    margin-top: 25px;
+    font-family: "Aria", sans-serif;
+    font-weight: Bold;
+}
+
+.AboutMe {
+  border-radius: 25px;
+  background-color: #160e35;
+  padding: 20px;
+  width: 900px;
+  height: 300px;
+  margin:auto;
+  margin-top: 20px;
+  font-size: 1.2em;
+  font-family: "OkineSans", sans-serif;
+}
+
+.AboutMeContent {
+  margin-left: 20px;
+  margin-top: -20px;
+}
+
+.AboutLink:link {
+  color: #D9D2F4;
+  text-decoration: none;
+}
+
+.AboutLink:Hover {
+  color: #f2f1f5;
+  text-decoration: none;
+}
+
+
+.skills {
+  border-radius: 25px;
+  background-color: #160e35;
+  padding: 20px;
+  width: 1200px;
+  height: 600px;
+  margin:auto;
+  margin-top: 20px;
+  font-size: 1.2em;
+}
+
+.skills-header {
+  margin-left: 520px;
+  margin-top: -20px;
+}
+
+.GitLink:link {
+    color: beige;
+    text-decoration: none;
+}
+
+.GitLink:visited {
+    color: #D9D2F4;
+    text-decoration: none;
+}
+
+
+.GitLink:hover {
+    color: beige;
+    text-decoration: none;
+}
+
+.line {
+  width: 1200px;
+  height: 2px;
+  background-color: rgb(230, 219, 219);
+}
+
+.dev {
+  border-radius: 25px;
+  background-color: #2D1A7A;
+  padding: 15px;
+  width: 480px;
+  height: 210px;
+  margin-left : 30px;
+  margin-top: 20px;
+  font-size: 1.2em;
+}
+
+.devheadline {
+  margin-top: -40px;;
+}
+.devlist {
+  margin-top: -25px
+}
+
+.sys {
+  border-radius: 25px;
+  background-color: #2D1A7A;
+  padding: 15px;
+  width: 480px;
+  height: 210px;
+  margin-left : 670px;
+  margin-top: -240px;
+  font-size: 1.2em;
+}
+
+.sysheadline {
+  margin-top: -40px;;
+}
+.syslist {
+  margin-top: -25px
+}
+
+.OS {
+  border-radius: 25px;
+  background-color: #2D1A7A;
+  padding: 15px;
+  width: 600px;
+  height: 150px;
+  margin-left : -395px;
+  margin-top: 50px;
+  font-size: 1.2em;
+}
+
+.OSheadline {
+  margin-top: -40px;;
+  text-align: center;
+}
+
+.OSlist {
+  margin-top: -25px
+}
+
+.DiverseSkills {
+  border-radius: 25px;
+  background-color: #160e35;
+  padding: 20px;
+  width: 900px;
+  height: 160px;
+  margin:auto;
+  margin-top: 20px;
+  font-size: 1.2em;
+  font-family: "OkineSans", sans-serif;
+}
+
+.DiverseHeadline {
+  margin-top: -40px;;
+  text-align: center;
+}
+
+.DiverseList {
+  margin-top: 5px
+}
+
+.Important {
+    color: gray;
+    font-weight: italic;
+    font-size: 0.9em;
+    margin-top: -20px;
+}
+
+.Contact {
+  border-radius: 25px;
+  background-color: #160e35;
+  padding: 20px;
+  width: device-width;
+  height: 160px;
+  margin:none;
+  margin-top: 20px;
+  font-size: 1.2em;
+  font-family: "OkineSans", sans-serif;
+}
+
+.MediaLink {
+  display: flex;
+  justify-content: center;
+  margin-top: -105px;
+  margin-left : 1000px;
+}
+
+.copyright {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.9em;
+  color: gray;
+}
