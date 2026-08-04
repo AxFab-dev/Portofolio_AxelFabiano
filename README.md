@@ -4,7 +4,7 @@ This project serves as a personal website to present professional information, t
 
 Portfolio --> Index.html + Assets --> style.css + Ressources --> Axel.jpg + Icon.png + CV.pdf + fonts
 
-Open the project
+Open the project : 
 
 Open index.html in any modern web browser. It should work just fine as long as the files are as shown above :D
 
@@ -12,3 +12,6 @@ Roadmap :
   -Accessibility improvements
   -SEO optimization
   -Multi-language support
+
+
+![Preview : ](AxelFabiano_Portfolio/Assets/Ressources/Portfolio.png)
